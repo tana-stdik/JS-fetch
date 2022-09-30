@@ -1,0 +1,25 @@
+body {
+  background: rgba(0, 255, 229, 0.621);
+}
+h1{
+  text-align: center;
+}
+.btn {
+  border: solid 2px #0919aa;
+  border-radius: 10px;
+  background-color: #0c22e6;
+  color: white;
+  width: 100%;
+  padding: 20px;
+  font-size: 16px;
+  cursor: pointer;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2);
+}
+#btn-enter{
+  display: block;
+}
+
+.btn:hover{
+  background-color: #9be8cd;
+  color: #000;
+}

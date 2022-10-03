@@ -1,0 +1,17 @@
+body {
+  text-align: center;
+  background: linear-gradient(111.5deg, rgb(228, 247, 255) 21.9%, rgb(255, 216, 194) 92.2%);
+}
+
+.btn{
+  margin: 50px;
+  border: solid 2px rgb(134, 104, 86);
+  border-radius: 10px;
+  background-color: rgb(240, 183, 162);
+  color: white;
+  width: 30%;
+  padding: 10px;
+  font-size: 16px;
+  cursor: pointer;
+  box-shadow: 0px 8px 16px 0px rgba(0, 0, 0, 0.2); 
+}
